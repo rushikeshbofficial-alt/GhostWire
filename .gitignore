@@ -1,0 +1,7 @@
+*.o
+p2p
+p2p.exe
+test_catalog
+test_catalog.exe
+downloads/*
+!downloads/.gitkeep
